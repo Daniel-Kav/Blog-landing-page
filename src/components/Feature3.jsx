@@ -1,5 +1,5 @@
 import React from "react";
-import "./css/feature3.css";
+import "./css/feature3.scss";
 import laptopDesktop from "../assets/images/illustration-laptop-desktop.svg";
 import laptopMobile from "../assets/images/illustration-laptop-mobile.svg";
 
