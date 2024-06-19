@@ -1,19 +1,21 @@
 import React from "react";
 import "./App.scss";
 import Hero from "./components/Hero";
-import Feature1 from "./components/Feature1";
-import Feature2 from "./components/Feature2";
-import Feature3 from "./components/Feature3";
+import Feature2 from "./components/SecondSection";
+import Feature3 from "./components/ThirdSection";
 import Footer from "./components/Footer";
+import FirstSection from "./components/FirstSection";
+import SecondSection from "./components/SecondSection";
+import ThirdSection from "./components/ThirdSection";
 
 function App() {
   return (
     <main className="outer-container">
       <div className="inner-container">
         <Hero />
-        <Feature1/>
-        <Feature2/>
-        <Feature3/>
+        <FirstSection/>
+        <SecondSection/>
+        <ThirdSection/>
         <Footer/>
       </div>
     </main>

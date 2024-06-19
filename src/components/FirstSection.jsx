@@ -3,7 +3,7 @@ import "./css/feature1.scss";
 import editorDesktop from "../assets/images/illustration-editor-desktop.svg";
 import editorMobile from "../assets/images/illustration-editor-mobile.svg";
 
-function Feature1() {
+function FirstSection() {
   return (
     <section className="feature-1-container">
       <h2>Designed for the future</h2>
@@ -47,4 +47,4 @@ function Feature1() {
     </section>
   );
 }
-export default Feature1;
+export default FirstSection;

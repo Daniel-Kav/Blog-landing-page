@@ -3,7 +3,7 @@ import "./css/feature3.scss";
 import laptopDesktop from "../assets/images/illustration-laptop-desktop.svg";
 import laptopMobile from "../assets/images/illustration-laptop-mobile.svg";
 
-function Feature3() {
+function ThirdSection() {
   return (
     <section className="feature-3-container">
       <div className="feature-3 image">
@@ -41,4 +41,4 @@ function Feature3() {
     </section>
   );
 }
-export default Feature3;
+export default ThirdSection;

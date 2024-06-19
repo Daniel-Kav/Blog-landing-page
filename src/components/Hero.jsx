@@ -1,6 +1,8 @@
 import React from "react";
 import "./css/hero.scss";
 import Navbar from "./Navbar";
+
+
 function Hero() {
   return (
     <header className="hero-nav-container">

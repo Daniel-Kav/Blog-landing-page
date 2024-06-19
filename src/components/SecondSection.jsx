@@ -1,7 +1,7 @@
 import React from "react";
 import "./css/feature2.scss";
 import mobilePhones from "../assets/images/illustration-phones.svg";
-function Feature2() {
+function SecondSection() {
   return (
     <section className="feature-2-container">
       <div className="feature-2 image">
@@ -25,4 +25,4 @@ function Feature2() {
     </section>
   );
 }
-export default Feature2;
+export default SecondSection;
