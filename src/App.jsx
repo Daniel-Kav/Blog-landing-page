@@ -1,5 +1,5 @@
 import React from "react";
-import "./App.css";
+import "./App.scss";
 import Hero from "./components/Hero";
 import Feature1 from "./components/Feature1";
 import Feature2 from "./components/Feature2";
