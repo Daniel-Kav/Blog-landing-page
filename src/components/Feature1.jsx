@@ -1,5 +1,5 @@
 import React from "react";
-import "./css/feature1.css";
+import "./css/feature1.scss";
 import editorDesktop from "../assets/images/illustration-editor-desktop.svg";
 import editorMobile from "../assets/images/illustration-editor-mobile.svg";
 

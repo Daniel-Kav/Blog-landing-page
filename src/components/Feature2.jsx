@@ -1,5 +1,5 @@
 import React from "react";
-import "./css/feature2.css";
+import "./css/feature2.scss";
 import mobilePhones from "../assets/images/illustration-phones.svg";
 function Feature2() {
   return (
