@@ -4,7 +4,7 @@ import iconClose from "../assets/images/icon-close.svg";
 import iconHamburger from "../assets/images/icon-hamburger.svg";
 import DropdownMenu from "./DropDownMenu";
 import data from "../Links";
-import "./css/navbar.css";
+import "./css/navbar.scss";
 
 
 
