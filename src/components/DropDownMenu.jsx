@@ -3,7 +3,7 @@ import iconLight from "../assets/images/icon-arrow-light.svg";
 import iconDark from "../assets/images/icon-arrow-dark.svg";
 
 
-import "./css/dropdown.css";
+import "./css/dropdown.scss";
 
 const DropdownMenu = ({ category, isActive, toggleDropdown, isOpen }) => {
   return (
